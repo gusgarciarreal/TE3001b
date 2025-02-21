@@ -3,7 +3,6 @@ This repository contains my work for the Robotics Fundamentals (TE3001b) course.
 
 ## Tech Stack:
 Python
-ROS2 (Humble/Foxy)
-Gazebo & RViz
-Microcontrollers & Embedded Devices (if applicable)
+ROS2 (Humble)
+Gazebo
 Linux (Ubuntu) for development
